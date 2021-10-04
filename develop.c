@@ -8,5 +8,8 @@ int main() {
 	printf("develop fourth\n");
 	printf("develop fifth\n");
 	printf("develop sixth\n");
+	printf("develop seventh\n");
+	printf("develop eighth\n");
+	printf("develop ninth\n");
 	return 0;
 }
