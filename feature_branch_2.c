@@ -5,5 +5,6 @@ int main() {
 	printf("feature_branch_2 first\n");
 	printf("feature_branch_2 second\n");
 	printf("feature_branch_2 third\n");
+	printf("feature_branch_2 fourth\n");
 	return 0;
 }
