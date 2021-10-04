@@ -3,5 +3,6 @@
 
 int main() {
 	printf("fiature_branch_1 first\n");
+	printf("fiature_branch_1 second\n");
 	return 0;
 }
