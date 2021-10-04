@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 int main() {
-	printf("develop\n");
+	printf("develop first\n");
+	printf("develop second\n");
 	return 0;
 }
